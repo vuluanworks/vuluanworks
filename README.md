@@ -37,8 +37,7 @@
 - Metabase  
 
 ### 📌 Others
-- Git & GitHub  
-- Linux  
+- Git & GitHub   
 - Excel  
 
 ---
