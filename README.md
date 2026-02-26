@@ -57,10 +57,6 @@
 ---
 
 ## 📫 Connect with Me
-
-- 💼 LinkedIn: (Add your LinkedIn link here)
-- 📧 Email: (Add your email here)
-
----
-
+- 📧 Email: vuluan789.work@gmail.com
+  
 ⭐ Always learning. Always improving.
